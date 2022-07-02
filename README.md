@@ -6,13 +6,19 @@
 # reference
 問題集
 https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=
+
 解答集
 https://github.com/IsHYuhi/AtCoder_Python
-https://atcoder.jp/contests/typical90
-https://docs.google.com/spreadsheets/d/1GG4Higis4n4GJBViVltjcbuNfyr31PzUY_ZY1zh2GuI/edit#gid=105162261
-https://atcoder.jp/contests/typical90
+https://qiita.com/u2dayo
 
 
+# Runtime Error
 
-# libs
-https://docs.python.org/ja/3/library/collections.html
+[recursive](https://qiita.com/drken/items/e77685614f3c6bf86f44)
+```
+import sys
+sys.setrecursionlimit(100000)
+```
+(2 ** (n // 2)) % (10 ** 9 + 7)
+(2 ** (n // 2)) % (10 ** 9 + 7)
+```
