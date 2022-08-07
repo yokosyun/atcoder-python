@@ -1,24 +1,16 @@
 # atcoder-python
+this repo contain the atcoder answer by python3.6
 
 
+## Runtime Error
 
-
-# reference
-問題集
-https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=
-
-解答集
-https://github.com/IsHYuhi/AtCoder_Python
-https://qiita.com/u2dayo
-
-
-# Runtime Error
-
-[recursive](https://qiita.com/drken/items/e77685614f3c6bf86f44)
+[recursive limit for python](https://qiita.com/drken/items/e77685614f3c6bf86f44)
 ```
 import sys
 sys.setrecursionlimit(100000)
 ```
-(2 ** (n // 2)) % (10 ** 9 + 7)
-(2 ** (n // 2)) % (10 ** 9 + 7)
-```
+
+## Reference
+https://github.com/IsHYuhi/AtCoder_Python
+
+https://qiita.com/u2dayo
