@@ -16,3 +16,6 @@ https://www.slideshare.net/chokudai/presentations
 https://github.com/IsHYuhi/AtCoder_Python
 
 https://qiita.com/u2dayo
+
+
+[greatest common divisor / least common multiple](https://ictsr4.com/py/m0150.html)
