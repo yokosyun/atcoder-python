@@ -11,7 +11,7 @@ python3 scripts/generate_table.py
 
 
 |contest | A | B | C | D |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |ABC001|[&check;](ABC/ABC001/A.py)|[&check;](ABC/ABC001/B.py)|[&check;](ABC/ABC001/C.py)||
 |ABC002|[&check;](ABC/ABC002/A.py)|[&check;](ABC/ABC002/B.py)|[&check;](ABC/ABC002/C.py)||
 |ABC003|[&check;](ABC/ABC003/A.py)|[&check;](ABC/ABC003/B.py)|[&check;](ABC/ABC003/C.py)||
