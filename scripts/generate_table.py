@@ -23,6 +23,7 @@ def main():
             pre_folder = folder
 
         line += "[&check;](" + file_path + ")|"
+    print(line)
 
 
 if __name__ == "__main__":
