@@ -62,6 +62,9 @@ python3 scripts/generate_table.py
 |ABC048|[&check;](ABC/ABC048/A.py)|[&check;](ABC/ABC048/B.py)|[&check;](ABC/ABC048/C.py)|
 |ABC049|[&check;](ABC/ABC049/A.py)|[&check;](ABC/ABC049/B.py)|[&check;](ABC/ABC049/C.py)|
 |ABC050|[&check;](ABC/ABC050/A.py)|[&check;](ABC/ABC050/B.py)|[&check;](ABC/ABC050/C.py)|
+|ABC051|[&check;](ABC/ABC051/A.py)|[&check;](ABC/ABC051/B.py)|[&check;](ABC/ABC051/C.py)|
+|ABC052|[&check;](ABC/ABC052/A.py)|[&check;](ABC/ABC052/B.py)|[&check;](ABC/ABC052/C.py)|[&check;](ABC/ABC052/D.py)|
+|ABC053|[&check;](ABC/ABC053/A.py)|[&check;](ABC/ABC053/B.py)|[&check;](ABC/ABC053/C.py)|[&check;](ABC/ABC053/D.py)|
 
 ## Runtime Error
 
